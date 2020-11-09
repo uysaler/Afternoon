@@ -1,3 +1,6 @@
 hi
 hello
 love
+new staff
+using atom
+one more
